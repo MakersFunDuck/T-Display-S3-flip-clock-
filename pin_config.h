@@ -1,7 +1,7 @@
 #pragma once
 
-#define WIFI_SSID                    "FRITZ!Box 7530 LK"
-#define WIFI_PASSWORLD               "59212629967136900613"
+#define WIFI_SSID                    "your-SSID"
+#define WIFI_PASSWORLD               "Your wifi password"
 
 #define WIFI_CONNECT_WAIT_MAX        (30 * 1000)
 
